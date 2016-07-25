@@ -1,7 +1,7 @@
-# React @ Mapbox & checkboxes
+# React & Mapbox & checkboxes
 ***
 
-This is an example of how to talk between Mapbox API and html checkboxes with React.
+This is an example of how to talk between Mapbox JS and html checkboxes with React.
 
 ## Quick Start
 ```sh
